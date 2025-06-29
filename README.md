@@ -1,4 +1,5 @@
-# 🧩 Customer Delinquency Risk Model ![Status](https://img.shields.io/badge/status-Draft-blue) ![Model](https://img.shields.io/badge/model-Logistic%20Regression-orange) ![License](https://img.shields.io/badge/license-MIT-green)
+# 🧩 Customer Delinquency Risk Model 
+![Status](https://img.shields.io/badge/status-Draft-blue) ![Model](https://img.shields.io/badge/model-Logistic%20Regression-orange) ![License](https://img.shields.io/badge/license-MIT-green)
 
 A clear, explainable credit risk model plan using logistic regression — balancing accuracy, transparency, and fairness.
 
